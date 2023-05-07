@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 1em;
+    box-sizing: border-box;
+}
+.nan{
+    background-color: red;
+}
+.sas{
+  background-color: darkslategray;
+}
+.hero{
+    max-width: 10em;
+}

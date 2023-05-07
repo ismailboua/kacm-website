@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 1em;
+    box-sizing: border-box;
+}
+.hero1{
+    background-color:orange;
+}
+.hero2{
+    background-color:orange;
+}
+.hero3{
+    background-color:cadetblue;
+}
+.hero4{
+    background-color:cadetblue;
+}
+button{
+    border: none;
+    background: #404040;
+    color: #ffffff;
+    font-weight: 100;
+    padding: 20px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    text-decoration: none;}
